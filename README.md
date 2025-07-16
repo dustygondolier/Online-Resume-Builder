@@ -21,9 +21,6 @@ A simple and intuitive web application to create professional, print-ready resum
 * *CSS3:* For styling the application, including layout (Flexbox), responsiveness, and visual enhancements.
 * *JavaScript (Vanilla JS):* For interactive elements, managing the hamburger menu toggle, and implementing smooth scrolling to sections.
 
-## Getting Started
-
-Follow these instructions to get a copy of the project up and running on your local machine.
 
 ### Prerequisites
 
