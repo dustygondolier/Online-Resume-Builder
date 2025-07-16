@@ -22,6 +22,7 @@ A simple and intuitive web application to create professional, print-ready resum
 * *JavaScript (Vanilla JS):* For interactive elements, managing the hamburger menu toggle, and implementing smooth scrolling to sections.
 
 
+
 ### Prerequisites
 
 * A modern web browser (e.g., Google Chrome, Mozilla Firefox, Microsoft Edge).
