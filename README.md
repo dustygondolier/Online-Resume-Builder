@@ -32,4 +32,4 @@ A simple and intuitive web application to create professional, print-ready resum
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file (if you create one) for details.
+This project is licensed under the MIT License.
